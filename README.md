@@ -30,7 +30,7 @@ bash
 Copy code
 
 ```bash
-pip install nltk
+pip install nltk```
 
 Download NLTK Word Data:
 
