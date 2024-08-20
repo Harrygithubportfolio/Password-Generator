@@ -20,25 +20,33 @@ This Python script is an advanced password generator designed to create secure p
 
    ```bash
    git clone https://github.com/yourusername/advanced-password-generator.git
-Install Required Dependencies:
+
+
+## 2. Install Required Dependencies:
 
 The script requires the nltk library to check for dictionary words. Install the required libraries using pip:
 
 bash
 Copy code
+
+```bash
 pip install nltk
+
 Download NLTK Word Data:
 
 The script will automatically download the necessary NLTK data on the first run. Ensure you have an internet connection for this.
 
-Usage
+### 3. Usage
+
 Running the Script
 You can run the script using Python:
 
-bash
-Copy code
+```bash
 python Advpasswordgen.py
-User Interactions
+
+
+## 4. User Interactions
+
 The script interacts with the user in the following ways:
 
 Specify the Path to Common Passwords File:
